@@ -8,7 +8,8 @@
 </head>
 <%@ page import="java.util.Date" %>
 <body>
-<h3>Hello everyone!</h3><br>
+<h3>Hello everyone!
+this is another update!</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
 
 </body>
