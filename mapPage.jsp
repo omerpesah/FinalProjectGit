@@ -34,7 +34,7 @@
             
             <div class="speech-bubble" id="buub">
                 <p id="textInBub">
-                    Hello!
+                    Hello Devops!
                 </p>
                 <button id="btnVet">Write to vet</button>
             </div>
