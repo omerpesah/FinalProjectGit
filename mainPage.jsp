@@ -20,8 +20,8 @@
       <input class="un " type="text" align="center" placeholder="Username" id="userName">
       <input class="pass" type="password" align="center" placeholder="Password">
       <div id="container">
-      <a class="submit" align="center" id="signInBtn" href="./mapPage.html">Sign in</a>
-      <a class="submit" align="center" id="signUnBtn" href="./signup.html" >Create an account</a>
+      <a class="submit" align="center" id="signInBtn" href="./mapPage.jsp">Sign in</a>
+      <a class="submit" align="center" id="signUnBtn" href="./signup.jsp" >Create an account</a>
       </div>
       <p class="forgot" align="center"><a href="#">Forgot Password?</p>    
     </div>
