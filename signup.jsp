@@ -24,7 +24,7 @@
       <input class="un " type="text" align="center" placeholder="Mail" id="mail">
       <input class="pass" type="password" align="center" placeholder="Password">
       <div id="container">
-      <a class="submit" align="center" id="signUnBtn" href="./mainPage.html" >Sign up</a>
+      <a class="submit" align="center" id="signUnBtn" href="./mainPage.jsp" >Sign up</a>
       </div>
       <p class="forgot" align="center"><a href="#">Forgot Password?</p>    
     </div>
